@@ -1,0 +1,13 @@
+## Interface: 11302
+## Title: PickpocketTracker
+## Notes: An addon to track profit from pickpocketing.
+
+## SavedVariablesPerCharacter: PPT_DB
+
+Libs\LibStub\LibStub.lua
+Libs\LibSharedMedia-3.0\lib.xml
+Libs\StdUi\StdUi.xml
+
+PickpocketTracker.lua
+PickpocketTrackerConfig.lua
+PickpocketTracker.xml
